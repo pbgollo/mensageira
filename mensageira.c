@@ -29,6 +29,42 @@ struct header{
 
 bool primeiro = true;
 /*---------------------------------------------------------------*/
+void printaBemVindo();
+void printaDivisao();
+int pegaOpcaoPrincipal();
+int pegaOpcaoEmissor();
+int pegaOpcaoReceptor();
+int pegaOpcaoMensagem();
+int pegaOpcaoRelatorios();
+void menuPrincipal();
+void menuEmissor();
+void menuReceptor();
+void menuMensagem();
+void menuRelatorios();
+int perguntaId(int tipo);
+void perguntaTexto(int tipo, char *texto, int tamanho);
+bool validaId(int tipo, int id);
+void incluirEmissor();
+void removerEmissor();
+void consultarEmissor();
+void incluirReceptor();
+void removerReceptor();
+void consultarReceptor();
+Elemento *encontrarReceptorPorId(int id);
+void enviarMensagem();
+void retirarMensagem();
+void consultarFilaMensagem();
+void imprimirDataHoraAtual();
+void mostrarRelatorioGeral();
+void exibirReceptoresComFilaVazia();
+void quantidadeMensagensPorEmissor();
+/*---------------------------------------------------------------*/
+int main() {
+    printaBemVindo();
+    menuPrincipal();
+    return 0;
+}
+/*---------------------------------------------------------------*/
 void printaBemVindo(){
     printf("━═━═━═━═━═━═━═━═━═━═━═━═━═━═━═━═━═━═━═━═━═━\n");
     printf("╭━━╮╱╱╱╱╱╱╱╱╱╱╱╱╱╭╮╱╱╭╮╱╱╱╱╱╱╱╱╭╮╱╱╱╱\n");
@@ -662,14 +698,5 @@ void quantidadeMensagensPorEmissor() {
         emissorAtual = emissorAtual->prox;
         receptorAtual = h.inicioReceptores;
     }
-}
-/*---------------------------------------------------------------*/
-int main() {
-    
-    printaBemVindo();
-    
-    menuPrincipal();
-
-    return 0;
 }
 /*---------------------------------------------------------------*/
