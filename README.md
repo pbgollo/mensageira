@@ -1,20 +1,18 @@
-# Pulse - Reprodutor Musical em Java
+# Mensageria: Fila de Mensagens
 
-![GitHub repo size](https://img.shields.io/github/repo-size/pbgollo/Pulse?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/pbgollo/Pulse?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/pbgollo/Pulse?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/pbgollo/mensageira?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/pbgollo/mensageira?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/pbgollo/mensageira?style=for-the-badge)
 
 <img src="imagem.png" alt="Exemplo imagem">
 
-> O Pulse é um reprodutor musical desenvolvido por Pedro Gollo, Bárbara Schneider e Franco Michelon durante a disciplina de Projeto Temático 1, no âmbito do curso de Análise e Desenvolvimento de Sistemas da Universidade de Caxias do Sul. Este aplicativo foi concebido com o objetivo de aplicar os conhecimentos adquiridos ao longo do curso, com ênfase em programação orientada a objetos (POO), fundamentos de banco de dados e princípios fundamentais de engenharia de software. O Pulse oferece aos usuários uma experiência musical completa e prática, sendo uma demonstração da capacidade de desenvolver aplicações funcionais e eficazes usando a linguagem Java e a interface gráfica do Swing.
+> A implementação apresentada é um sistema de gerenciamento de mensagens, onde emissores e receptores são elementos-chave na comunicação. O programa permite o envio de mensagens de emissores para receptores por meio de filas de mensagens. A estrutura de dados utilizada simplifica a organização dos elementos, permitindo a inclusão, remoção, consulta e gerenciamento de mensagens entre eles. O programa também oferece funcionalidades de relatórios, permitindo a geração de informações detalhadas sobre a interação entre emissores e receptores.
 
 ## 🔧 Tecnologias Utilizadas
 
 No projeto, a principal tecnologia adotada foi o Java, utilizando a biblioteca Swing para a interface gráfica, com o ambiente de desenvolvimento Eclipse. O banco de dados escolhido foi o MySQL.
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ## 💻 Pré-requisitos
 
