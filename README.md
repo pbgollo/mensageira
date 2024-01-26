@@ -8,6 +8,12 @@
 
 > A implementação apresentada é um sistema de gerenciamento de mensagens, onde emissores e receptores são elementos-chave na comunicação. O programa permite o envio de mensagens de emissores para receptores por meio de filas de mensagens. A estrutura de dados utilizada simplifica a organização dos elementos, permitindo a inclusão, remoção, consulta e gerenciamento de mensagens entre eles. O programa também oferece funcionalidades de relatórios, permitindo a geração de informações detalhadas sobre a interação entre emissores e receptores.
 
+## 🔧 Tecnologias Utilizadas
+
+No projeto, a principal tecnologia adotada foi o Java, utilizando a biblioteca Swing para a interface gráfica, com o ambiente de desenvolvimento Eclipse. O banco de dados escolhido foi o MySQL.
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atende aos seguintes requisitos:
