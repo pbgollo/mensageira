@@ -8,31 +8,26 @@
 
 > A implementação apresentada é um sistema de gerenciamento de mensagens, onde emissores e receptores são elementos-chave na comunicação. O programa permite o envio de mensagens de emissores para receptores por meio de filas de mensagens. A estrutura de dados utilizada simplifica a organização dos elementos, permitindo a inclusão, remoção, consulta e gerenciamento de mensagens entre eles. O programa também oferece funcionalidades de relatórios, permitindo a geração de informações detalhadas sobre a interação entre emissores e receptores.
 
-## 🔧 Tecnologias Utilizadas
-
-No projeto, a principal tecnologia adotada foi o Java, utilizando a biblioteca Swing para a interface gráfica, com o ambiente de desenvolvimento Eclipse. O banco de dados escolhido foi o MySQL.
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atende aos seguintes requisitos:
 
-- Você tem uma máquina Windows
-- Você instalou a versão mais recente do MySQL
-- Você instalou e configurou o Eclipse IDE
+- Você tem uma máquina que suporta a execução de programas em C
+- Você tem um compilador C instalado (por exemplo, GCC)
 
-## 🚀 Instalando o Pulse
+## 🚀 Executando o Projeto
 
-Para instalar o aplicativo, siga estas etapas:
+Para compilar e executar o aplicativo, siga estas etapas:
 
-- Importe o arquivo "Pulse.zip" no Eclipse
-- Modifique o arquivo "/Pulse/auxiliar/properties/database.properties" para acessar o seu banco de dados
-- Execute o arquivo "Principal" que possui o método main
+- Abra um terminal e navegue até o diretório onde o arquivo C está localizado
+- Compile o código usando o compilador C (por exemplo, `mensageira.c -o seu_programa`)
+- Execute o programa resultante (por exemplo, `./seu_programa`)
 
-## ☕ Usando o Pulse
+## ☕ Entendendo o Código
 
-Para um melhor entendimento do funcionamento do aplicativo, recomenda-se ler a seção 5 do <a href="/Artigo.pdf">artigo do projeto</a>.
+Para entender melhor a implementação das estruturas de dados do programa, você pode revisar o arquivo `explicacao-das-estruturas.pdf`.
+
+Certifique-se de ler e entender o código para uma melhor utilização.
 
 ## 🤝 Colaboradores
 
