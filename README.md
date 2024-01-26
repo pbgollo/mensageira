@@ -26,7 +26,7 @@ Antes de começar, verifique se você atende aos seguintes requisitos:
 Para compilar e executar o aplicativo, siga estas etapas:
 
 - Abra um terminal e navegue até o diretório onde o arquivo C está localizado
-- Compile o código usando o compilador C (por exemplo, `mensageira.c -o seu_programa`)
+- Compile o código usando o compilador C (por exemplo, `gcc mensageira.c -o seu_programa`)
 - Execute o programa resultante (por exemplo, `./seu_programa`)
 
 ## ☕ Entendendo o Código
