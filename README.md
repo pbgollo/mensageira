@@ -25,7 +25,7 @@ Para compilar e executar o aplicativo, siga estas etapas:
 
 ## ☕ Entendendo o Código
 
-Para entender melhor a implementação das estruturas de dados do programa, você pode revisar o arquivo `explicacao-das-estruturas.pdf`.
+Para um melhor entendimento da implementação das estruturas de dados no programa, você pode revisar o arquivo de <a href="/explicacao-das-estruturas.pdf">explicação das estrururas</a>.
 
 Certifique-se de ler e entender o código para uma melhor utilização.
 
@@ -40,14 +40,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         <img src="https://avatars.githubusercontent.com/u/130512644" width="100px;" alt="Foto do Pedro Gollo no GitHub"/><br>
         <sub>
           <b>Pedro Gollo</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Schneiderella" title="Perfil da Bárbara no GitHub">
-        <img src="https://avatars.githubusercontent.com/u/110864285" width="100px;" alt="Foto da Bárbara no GitHub"/><br>
-        <sub>
-          <b>Bárbara Schneider</b>
         </sub>
       </a>
     </td>
