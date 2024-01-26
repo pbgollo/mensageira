@@ -10,7 +10,7 @@
 
 ## 🔧 Tecnologias Utilizadas
 
-No projeto, a principal tecnologia adotada foi o Java, utilizando a biblioteca Swing para a interface gráfica, com o ambiente de desenvolvimento Eclipse. O banco de dados escolhido foi o MySQL.
+No projeto, a principal tecnologia adotada foi a linguagem de programação C. O código utiliza conceitos básicos da linguagem e estruturas de dados simples como listas encadeadas.
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
